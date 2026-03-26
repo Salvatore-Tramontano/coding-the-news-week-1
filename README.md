@@ -112,3 +112,5 @@ E se ci sono problemi, invece di lanciare segnali di fumo, apriamo una issue cit
 Se vuoi scrivere un hashtag # senza che diventi un titolo enorme, o degli asterischi \*così\* senza che diventino corsivo, usa il backslash `\` prima del carattere.
 
 *Come si implementa: `\# Testo` oppure `\*Testo\*`.*
+
+👋 ciao Pier
